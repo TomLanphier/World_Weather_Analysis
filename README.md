@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World Weather Analysis
+## Purpose
+This project was to simulate creating an app for a client. The app would retrieve temperature data for random cities all over the world. The app's user would input the temperature range of their desired vacation and the app would identify potential travel destinations and nearby hotels. Finally based on a selection of four cities, the app would also generate a travel route between the four cities, as well as a marker map with the city and hotel information in the marker.
